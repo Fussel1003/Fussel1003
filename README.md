@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Fussel1003
+- 👀 I’m interested in Games, Cloud Computing, and Web Development
+- 🌱 I’m currently learning Cloud and Web Dev technologies, including AWS, Azure, and modern JavaScript frameworks
+- 💞️ I’m looking to collaborate on open-source projects, game development, and cloud infrastructure automation
+- 📫 How to reach me: On Discord at Fussel1003#1234 or via email at fussel1003@example.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new open world games.
